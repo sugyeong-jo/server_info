@@ -37,6 +37,12 @@ In [2]: passwd()
 
 ## 4. jupyter_notebook_config.py 수정
 
+'vi'로 수정해주기
+
+    vi jupyter_notebook_config.py
+    
+입력 후 다음을 삽입
+
     c = get_config()
     c.NotebookApp.password ='sha1:7be57~'
     # The IP address the notebook server will listen on. 
@@ -45,7 +51,7 @@ In [2]: passwd()
     # c.NotebookApp.port_retries = 50 
     c.NotebookApp.port_retries = <port>
 
-
+수정 후에는  ':q'로 나오기
 
 - 출처: https://goodtogreate.tistory.com/entry/IPython-Notebook-설치방법 [GOOD to GREAT]
 - 출처: https://webdir.tistory.com/206
