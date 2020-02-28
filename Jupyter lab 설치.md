@@ -53,5 +53,11 @@ In [2]: passwd()
 
 수정 후에는  ':q'로 나오기
 
+## 5. nohup 돌려놓기
+
+    nohup jupyter lab --port <port>
+    
+nohup 돌리고 난 후 엔터 해주기!
+
 - 출처: https://goodtogreate.tistory.com/entry/IPython-Notebook-설치방법 [GOOD to GREAT]
 - 출처: https://webdir.tistory.com/206
