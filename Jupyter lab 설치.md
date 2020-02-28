@@ -47,5 +47,5 @@ In [2]: passwd()
 
 
 
-출처: https://goodtogreate.tistory.com/entry/IPython-Notebook-설치방법 [GOOD to GREAT]
-출처: https://webdir.tistory.com/206
+- 출처: https://goodtogreate.tistory.com/entry/IPython-Notebook-설치방법 [GOOD to GREAT]
+- 출처: https://webdir.tistory.com/206
